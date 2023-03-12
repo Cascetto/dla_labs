@@ -1,2 +1,2 @@
-./datasets/*
-./wandb/*
+datasets/*
+wandb/*
